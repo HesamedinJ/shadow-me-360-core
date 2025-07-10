@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "version": "1.0.0",
+    "createdAt": "2025-07-10T00:00:00Z"
+  },
+  "financial": {
+    "monthlyBudget": 0,
+    "expenses": [],
+    "savingsGoal": 0,
+    "predictedDeficit": null
+  },
+  "mental": {
+    "moodLogs": [],
+    "searchTrends": [],
+    "sleepPattern": {
+      "averageSleepHours": null,
+      "recentDeviation": null
+    },
+    "alertLevel": "normal"
+  },
+  "nutrition": {
+    "meals": [],
+    "caloriesPerDay": [],
+    "fatConsumptionLevel": null,
+    "alerts": []
+  },
+  "physical": {
+    "stepsPerDay": [],
+    "gpsTracks": [],
+    "inactiveHours": [],
+    "energyLevel": null
+  },
+  "social": {
+    "interactions": [],
+    "timeWithPeople": [],
+    "appsUsed": [],
+    "isolationRiskScore": null
+  },
+  "digital": {
+    "appUsageStats": [],
+    "nightScreenTime": [],
+    "focusSessions": [],
+    "digitalFatigueLevel": null
+  }
+}
