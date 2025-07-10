@@ -1,1 +1,9 @@
-json\n{\n "name": "Shadow Me 360",\n "start_url": ".",\n "display": "standalone"\n}\n
+{
+  "name": "Shadow Me 360",
+  "short_name": "Shadow360",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "Offline AI-powered digital mirror.",
+  "icons": []
+}
