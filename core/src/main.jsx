@@ -1,1 +1,6 @@
-jsx\nimport App from './App';\nimport ReactDOM from 'react-dom';\nReactDOM.render(<App />, document.getElementById('root'));\n
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+import App from './App';
+
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(<App />);
