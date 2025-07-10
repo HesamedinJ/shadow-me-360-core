@@ -1,1 +1,3 @@
-jsx\nexport default () => <p>Hello, this is a test component.</p>;\n
+export default function HelloMessage() {
+  return <p>Hello! This is a reusable test component.</p>;
+}
